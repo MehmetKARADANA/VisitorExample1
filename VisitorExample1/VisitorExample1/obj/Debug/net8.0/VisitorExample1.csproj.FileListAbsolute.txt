@@ -1,0 +1,14 @@
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Visitor\VisitorExample1\VisitorExample1\bin\Debug\net8.0\VisitorExample1.exe
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Visitor\VisitorExample1\VisitorExample1\bin\Debug\net8.0\VisitorExample1.deps.json
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Visitor\VisitorExample1\VisitorExample1\bin\Debug\net8.0\VisitorExample1.runtimeconfig.json
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Visitor\VisitorExample1\VisitorExample1\bin\Debug\net8.0\VisitorExample1.dll
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Visitor\VisitorExample1\VisitorExample1\bin\Debug\net8.0\VisitorExample1.pdb
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Visitor\VisitorExample1\VisitorExample1\obj\Debug\net8.0\VisitorExample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Visitor\VisitorExample1\VisitorExample1\obj\Debug\net8.0\VisitorExample1.AssemblyInfoInputs.cache
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Visitor\VisitorExample1\VisitorExample1\obj\Debug\net8.0\VisitorExample1.AssemblyInfo.cs
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Visitor\VisitorExample1\VisitorExample1\obj\Debug\net8.0\VisitorExample1.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Visitor\VisitorExample1\VisitorExample1\obj\Debug\net8.0\VisitorExample1.dll
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Visitor\VisitorExample1\VisitorExample1\obj\Debug\net8.0\refint\VisitorExample1.dll
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Visitor\VisitorExample1\VisitorExample1\obj\Debug\net8.0\VisitorExample1.pdb
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Visitor\VisitorExample1\VisitorExample1\obj\Debug\net8.0\VisitorExample1.genruntimeconfig.cache
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Visitor\VisitorExample1\VisitorExample1\obj\Debug\net8.0\ref\VisitorExample1.dll
